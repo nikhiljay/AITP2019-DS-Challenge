@@ -19,3 +19,5 @@ documentation to get started with the challenge. There you'll find details on
 the specifics of the challenge, the dataset, available resources, scoring, how
 to submit your work, tools and technology, final presentations, and supplemental
 information.
+
+By David and Nikhil.
